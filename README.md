@@ -1,4 +1,4 @@
-### Hi, I'm Mufidah 👋 — Healthcare Data Analyst
+### Hi, I'm Mufidah — Healthcare Data Analyst
 
 I turn messy clinical data into clean datasets and dashboards people can actually use.
 MS in Health Informatics (Morehouse School of Medicine, 4.0) with hands-on Epic, EDC, and research data experience.
